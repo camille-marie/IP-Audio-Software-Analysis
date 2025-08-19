@@ -5,7 +5,7 @@ C++ tools I built for EP-381 Audio Engineering coursework. These analyze Pro Too
 ## Tools Overview
 
 ### 1. ProTools Session Analyzer (`protools_analyzer.cpp`)
-**Status: Working**
+**Status: In Review**
 
 Parses Pro Tools .ptx session files and generates analysis reports. I wrote this to help validate my EP-381 project requirements.
 
