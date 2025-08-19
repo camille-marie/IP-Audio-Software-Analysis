@@ -28,7 +28,7 @@ g++ -std=c++17 -o protools_analyzer protools_analyzer.cpp
 ### 2. Video-to-Audio Design Analyzer (`video_audio_analyzer.cpp`)
 **Status: Needs OpenCV**
 
-Uses computer vision to analyze video content and automatically generate audio design recommendations. This was my attempt at bridging visual analysis with audio engineering.
+Uses computer vision to analyze video content and automatically generate audio design recommendations. This was the attempt at bridging visual analysis with audio engineering.
 
 **Features:**
 - Computer vision analysis (motion detection, scene changes, color analysis)
