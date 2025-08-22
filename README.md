@@ -189,8 +189,3 @@ Academic project - Camille Toubol-Fernandez, EP-381 Audio Engineering
 ## Future Ideas
 
 - Real-time video processing
-- GPU acceleration for faster analysis
-- Machine learning model training
-- Web interface for easier usage
-- Integration with popular DAWs
-- Batch processing capabilities
